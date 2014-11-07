@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-i shud us this often
+I should use this often, since I will be publishing code.
+
+
